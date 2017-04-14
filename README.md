@@ -1,1 +1,3 @@
-https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
+Sources:
+ - https://github.com/x0rz/EQGRP
+ - https://github.com/x0rz/EQGRP_Lost_in_Translation
