@@ -1,1 +1,1 @@
-# Equation_Group_Shadowbrokers
+https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
